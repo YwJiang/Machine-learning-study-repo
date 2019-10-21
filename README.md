@@ -1,7 +1,7 @@
 # Machine-learning-study-repo
 This repository records my assignments in Machine Learning courses.
 
-**COMPSCI-MachineLearning ** 
+**COMPSCI-MachineLearning** 
 
 Description: *Machine Learning* in University of Auckland
 
