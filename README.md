@@ -3,7 +3,7 @@ This repository records my assignments in Machine Learning courses.
 
 **COMPSCI-MachineLearning** 
 
-Description: *Machine Learning* in University of Auckland
+Description: *Machine Learning* in **University of Auckland**
 
 Time: From March 2019 to July 2019
 
@@ -17,7 +17,7 @@ Content:
 
 **ECNUCOM-MachineLearning** 
 
-Description: *Machine Learning and Data Mining* in East China Normal Univeristy
+Description: *Machine Learning and Data Mining* in **East China Normal Univeristy**
 
 Time: From September 2017 to January 2018
 
