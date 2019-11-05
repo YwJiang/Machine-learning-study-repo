@@ -10,8 +10,8 @@ Time: From March 2019 to July 2019
 Content: 
 
 1. Implementation of Data preprocessing and Naive Bayes classifier pipeline
-2. Implementation of Naive Bayesian algorithm and two extension based on given papers (No packages)
-3.  Dimension reduction and unsupervised classification
+2. Implementation of Naive Bayesian algorithm and two extension based on given papers (No usage of packages)
+3. Dimension reduction and unsupervised classification, such as k-means, hierarchical clustering, and DBSCAN algorithms.
 
 
 
